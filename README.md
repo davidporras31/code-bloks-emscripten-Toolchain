@@ -5,7 +5,7 @@ config of emscripten toolchain for code::blocks
 * for global installation go in code:blocks instalation directory or
 for local installation go in `%appdata%\CodeBlocks`
 * go in `\share\CodeBlocks\compilers`
-* drop `options_emscripten.xml` in 
+* drop `options_emscripten.xml` in it
 
 ## config
 * open CodeBlocks
